@@ -1,3 +1,5 @@
 /.alpackages
 /.snapshots
-/Rasmus_ALProject5_1.0.0.0.app
+*.app
+**/launch.json
+**/rad.json
