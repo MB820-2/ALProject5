@@ -1,0 +1,13 @@
+POST https://api.mistral.ai/v1/agents/completions HTTP/1.1
+Authorization: Bearer 6dswgupHlHo5iR31AzAzpcgemEt5mL0G
+Content-Type: application/json
+
+{
+    "agent_id": "ag:99a6349f:20250514:assignment-agent:6b894b38",
+    "messages": [ 
+        {
+            "role": "user",
+            "content": "Hello Rasmus, Could you please help me move my paintings tomorrow."
+        }
+    ]
+}

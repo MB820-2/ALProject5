@@ -1,0 +1,40 @@
+{
+  "id": "5c4a2505-4238-45a1-a4c3-74298aeaa566",
+  "name": "ALProject5",
+  "publisher": "Rasmus",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./res/logo.png",
+  "screenshots": [],
+  "dependencies": [
+    {
+      "id": "08d69832-9231-429e-be2c-8bab2c96905b",
+      "name": "Email - Current User Connector",
+      "publisher": "Microsoft",
+      "version": "1.0.0.0"
+    }
+  ],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

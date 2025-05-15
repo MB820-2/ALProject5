@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProject5">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3702874547 - Field 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 3776794752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field User Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 3702874547 - Field 3776794752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment - Field User Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4060202362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4060202362 - Field 2091240064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment Setup - Field Assignment No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4060202362 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RAA Assignment Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3103962083 - Method 4183682721 - NamedType 1582893390" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup Wizard</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RAA Assignment Setup Subs - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType TitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3103962083 - Method 4183682721 - NamedType 3800423060" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assisted Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RAA Assignment Setup Subs - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType ShortTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3103962083 - Method 4183682721 - NamedType 3569966352" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assisted setup for the Assignment Setup page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RAA Assignment Setup Subs - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType DescriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3103962083 - Method 1858114840 - NamedType 254384817" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This setup is already done. Do you want to open the setup page instead?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit RAA Assignment Setup Subs - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Status field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Control 3776794752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the User Id field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Control User Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1297003101 - Action 2012386429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AI Assignment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment List - Action AIAssignment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4060202362 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Setup - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 4060202362 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This page is used to set up the Assignment Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Setup - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 4060202362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4060202362 - Control 2091240064 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Setup - Control Assignment No. - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 4060202362 - Control 2091240064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The no series of the Assignments</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Setup - Control Assignment No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4060202362 - Control 2091240064 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control which number series is used when creating new assignments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Setup - Control Assignment No. - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assignment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 3647570164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's go!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Let's go! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 727926705 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the first step of the setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Group22 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 1718011614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Welcome to Assignment Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Welcome to Assignment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 1612614122 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In this setup we will be setting up the final things for your assignments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Group18 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 2279239964 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In this step you will be assigning the no. series used for each of your assignments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Step2 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 2091240064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Assignment No. field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Assignment No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 1365623322 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Congatulations! You have completed the setup, click Finish to save everything.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Group23 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 1546979963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>That's it!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control That's it! - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Control 2641016556 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To save this setup, choose Finish.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Control Group25 - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1961692070 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RAA Assignment Wizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3694075561 - Control 1150021790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3377672696">
+          <source>Specifies the value of the Assignments field.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension RAA O365ActivitiesExt - Control RAA Assignments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3683871493 - Field 1150021790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 132259524">
+          <source>Assignments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension RAA ActivitiesCueExt - Field RAA Assignments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496408071 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RAA Assignment Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496408071 - EnumValue 1090713286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In Progress</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RAA Assignment Status - EnumValue In Progress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496408071 - EnumValue 4037505346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incomplete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RAA Assignment Status - EnumValue Incomplete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2496408071 - EnumValue 2052431574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Removed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum RAA Assignment Status - EnumValue Removed - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

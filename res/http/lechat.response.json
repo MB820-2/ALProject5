@@ -1,0 +1,28 @@
+{
+    "assignments": [
+        {
+            "task": "Confirm the time and location for moving the paintings",
+            "details": "Contact the person who requested help to confirm the exact time and location for moving the paintings."
+        },
+        {
+            "task": "Gather necessary supplies",
+            "details": "Prepare materials such as moving blankets, packing tape, and boxes to ensure the paintings are moved safely."
+        },
+        {
+            "task": "Assess the paintings",
+            "details": "Inspect each painting to determine the best way to pack and move them without causing damage."
+        },
+        {
+            "task": "Pack the paintings",
+            "details": "Carefully wrap each painting in moving blankets or bubble wrap and secure them in boxes or on a moving dolly."
+        },
+        {
+            "task": "Transport the paintings",
+            "details": "Load the paintings into the vehicle and transport them to the designated location."
+        },
+        {
+            "task": "Unpack and place the paintings",
+            "details": "Unwrap the paintings and place them in the desired location, ensuring they are secure and properly displayed."
+        }
+    ]
+}
